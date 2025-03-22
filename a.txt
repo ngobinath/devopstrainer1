@@ -1,3 +1,0 @@
-Learning GIT
-Changing the file to create a mergeconflict
-changing it in newbranch1
